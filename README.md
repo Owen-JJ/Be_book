@@ -10,7 +10,7 @@
 
 ## 🛠 Công nghệ sử dụng
 - **Ngôn ngữ & Framework**: Java với Spring Boot
-- **Cơ sở dữ liệu**: MySQL (hỗ trợ PostgreSQL, SQLite)
+- **Cơ sở dữ liệu**: MySQL
 - **ORM**: Hibernate (JPA)
 - **Công cụ khác**: ModelMapper, Spring Data JPA
 
